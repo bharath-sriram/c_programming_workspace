@@ -74,5 +74,3 @@ int main(){
     printf("Goodbye!\n");
     return 0;
 }
-
-/*Updated on June 4 2026*/
